@@ -1,0 +1,8 @@
+joblib==1.1.0
+numpy==1.20.3
+Pillow==9.2.0
+pyrebase==3.0.27
+Pyrebase4==4.5.0
+requests==2.27.1
+streamlit==1.8.1
+~oblib==1.1.0
